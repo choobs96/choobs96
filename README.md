@@ -14,11 +14,13 @@ Snowplow events, third-party APIs, and the legacy warehouses being retired.
 
 ### Stack
 
-**modelling** — `dbt` · `Kimball / star schemas` · `SCD` · `metric views` · `semantic layer governance`
-**platforms** — `Databricks` · `Unity Catalog` · `Delta Lake` · `BigQuery` · `Kafka / CDC` · `Airflow`
-**languages** — `SQL` · `Python` · `Git & CI/CD` · `REST & OAuth`
-**surfaces** — `Tableau` · `Looker Studio` · `Superset` · `Salesforce CRM Analytics` · `Snowplow` · `Braze`
-**how I work** — `Claude Code — skills · agents · hooks · MCP`, human review as the last gate
+| | |
+|---|---|
+| **modelling** | `dbt` · `Kimball / star schemas` · `SCD` · `metric views` · `semantic layer governance` |
+| **platforms** | `Databricks` · `Unity Catalog` · `Delta Lake` · `BigQuery` · `Kafka / CDC` · `Airflow` |
+| **languages** | `SQL` · `Python` · `Git & CI/CD` · `REST & OAuth` |
+| **surfaces** | `Tableau` · `Looker Studio` · `Superset` · `Salesforce CRM Analytics` · `Snowplow` · `Braze` |
+| **how I work** | `Claude Code` — skills · agents · hooks · MCP — human review as the last gate |
 
 ### Find me
 
