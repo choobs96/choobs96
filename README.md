@@ -25,5 +25,3 @@ Snowplow events, third-party APIs, and the legacy warehouses being retired.
 ### Find me
 
 [LinkedIn](https://www.linkedin.com/in/jianweichoo)
-
-_Everything here is personal work, built on my own time — my day-job commits live in my employer's private repos._
