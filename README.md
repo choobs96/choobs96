@@ -24,4 +24,4 @@ Snowplow events, third-party APIs, and the legacy warehouses being retired.
 
 [LinkedIn](https://www.linkedin.com/in/jianweichoo)
 
-_Day-job work ships to a private employer org — the public cadence lives here._
+_Everything here is personal work, built on my own time — my day-job commits live in my employer's private repos._
