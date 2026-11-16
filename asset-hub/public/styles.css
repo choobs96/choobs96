@@ -185,3 +185,5 @@ textarea.input { min-height: 90px; font-family: var(--mono); font-size: 13px; }
 .login h1 { font: 750 30px var(--font-display); margin: 0; letter-spacing: -.02em; }
 .privacy .mask { filter: blur(7px); }
 @media (prefers-reduced-motion: reduce) { .sheet, .sheet-back, .toast { transition: none; } }
+.seg { max-width: 100%; }
+@media (max-width: 380px) { .seg button { padding: 6px 8px; font-size: 12px; } .hero .big { font-size: 34px; } }
