@@ -1,0 +1,19 @@
+{
+  "name": "asset-hub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Self-hosted net worth, investment P&L and cash-flow app across brokers, banks, exchanges and wallets.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "demo": "ASSET_HUB_DEMO=1 node --disable-warning=ExperimentalWarning server/index.js",
+    "test": "node --disable-warning=ExperimentalWarning --test test/*.test.js",
+    "build:demo": "node scripts/build-demo.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.8.0"
+  }
+}
