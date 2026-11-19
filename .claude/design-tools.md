@@ -1,7 +1,7 @@
 # Design tooling: installed vs. on-demand
 
 Source: Ray Fu, "20 GitHub Repos for Your AI Design Studio" (raycfu.com, Nov 2026).
-Install commands below are copied from that guide. Check each repo's README before running, since they can change.
+Install commands are from that guide, except the shadcn and Lucide ones, which are the standard commands from those projects. Check each repo's README before running, since they can change.
 
 ## Installed (project scope, declared in `.claude/settings.json`)
 
